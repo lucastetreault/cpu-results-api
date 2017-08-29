@@ -18,7 +18,7 @@ exports.setup = function (options, seedLink) {
 
 exports.up = function (db) {
   return Promise.all(results.map(result => new Promise((resolve, reject) => db.insert('results', [
-    'id',
+    'competition',
     'date',
     'location',
     'competitionType',
