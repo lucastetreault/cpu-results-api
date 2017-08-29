@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "db-migrate up && node src/index.js",
-    "test": "standard && echo TODO"
+    "test": "standard src/** && echo TODO"
   },
   "engines": {
     "node": "8.x.x"
