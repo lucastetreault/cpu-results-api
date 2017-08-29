@@ -9,7 +9,7 @@ app.get('/', async (req, res) => {
   const client = new Client({connectionString: process.env.DATABASE_URL})
 
   await client.connect()
-  const results = await client.query('SELECT * from results')
+  const results = await client.query('SELECT * FROM results')
   res.json(results)
   await client.end()
 })
