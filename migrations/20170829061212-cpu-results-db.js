@@ -18,7 +18,7 @@ exports.up = function (db, callback) {
   db.createTable('results', {
     id: {type: 'int', primaryKey: true, autoIncrement: true},
     competition: 'string',
-    date: {type: 'date'},
+    date: 'date',
     location: 'string',
     competitionType: 'string',
     sex: 'string',

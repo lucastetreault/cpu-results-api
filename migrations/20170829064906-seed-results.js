@@ -37,6 +37,8 @@ exports.up = function (db) {
     'year',
     'equipped'
   ], result, (err) => {
+    console.log(err)
+    console.log(result)
     if (err) { reject(err) }
     resolve()
   }))))
