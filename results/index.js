@@ -26,4 +26,4 @@ const results = file.readFileSync(path.resolve(__dirname, 'results.csv'))
     res[17] !== 'yes'
   ]))
 
-module.exports = () => results
+module.exports = results
