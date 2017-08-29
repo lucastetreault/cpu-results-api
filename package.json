@@ -5,12 +5,14 @@
   "author": "Lucas Tétreault",
   "license": "MIT",
   "dependencies": {
+    "db-migrate": "^0.10.0-beta.23",
+    "dotenv": "^4.0.0",
     "express": "^4.15.4",
     "pg": "^7.2.0",
     "standard": "^10.0.3"
   },
   "scripts": {
-    "start": "node src/index.js",
+    "start": "db-migrate up && node src/index.js",
     "test": "standard && echo TODO"
   },
   "engines": {
