@@ -13,7 +13,7 @@ const results = file.readFileSync(path.resolve(__dirname, 'results.csv'))
     res[4],
     res[5],
     res[6],
-    parseFloat(res[7]),
+    parseFloat(res[7]) || 0,
     res[8],
     res[9],
     res[10],
@@ -21,8 +21,8 @@ const results = file.readFileSync(path.resolve(__dirname, 'results.csv'))
     parseFloat(res[12]) || 0,
     parseFloat(res[13]) || 0,
     parseFloat(res[14]) || 0,
-    parseFloat(res[15]),
-    parseInt(res[16]),
+    parseFloat(res[15]) || 0,
+    parseInt(res[16]) || 0,
     res[17] !== 'yes'
   ]))
 
