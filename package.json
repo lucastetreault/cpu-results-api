@@ -1,0 +1,10 @@
+{
+  "name": "cpu-results",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Lucas Tétreault",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
