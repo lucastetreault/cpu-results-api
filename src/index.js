@@ -5,4 +5,4 @@ app.get('/', (req, res) => res.json('yay!'));
 
 app.get('/config', (req, res) => res.json(process.env));
 
-app.listen(3000);
+app.listen(process.env.PORT || 3000);
