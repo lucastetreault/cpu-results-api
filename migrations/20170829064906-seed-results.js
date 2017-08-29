@@ -17,7 +17,7 @@ exports.setup = function (options, seedLink) {
 }
 
 exports.up = function (db) {
-  return Promise.all(results.map(result => db.insert('results', [
+  return Promise.all(results.map(result => new Promise((resolve, reject) => db.insert('results', [
     'id',
     'date',
     'location',
@@ -36,7 +36,10 @@ exports.up = function (db) {
     'wilks',
     'year',
     'equipped'
-  ], result)))
+  ], result, (err) => {
+    if (err) { reject(err) }
+    resolve()
+  }))))
 }
 
 exports.down = function (db) {
