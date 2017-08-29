@@ -7,7 +7,7 @@ const results = file.readFileSync(path.resolve(__dirname, 'results.csv'))
   .map(row => row.split('|').map(column => column.toString().trim()).map(column => column === '&nbsp;' ? '' : column))
   .map(res => ([
     res[0],
-    new Date(res[1]) || new Date(0),
+    res[1] ? new Date(res[1]) : new Date(0),
     res[2],
     res[3],
     res[4],
