@@ -9,7 +9,7 @@ app.get('/', async (req, res) => {
   const client = new Client({connectionString: process.env.DATABASE_URL})
 
   await client.connect()
-  const results = await client.query('SELECT * FROM results ORDER BY wilks DESC TOP 100')
+  const results = await client.query('SELECT * FROM results ORDER BY wilks DESC LIMIT 100')
   res.json(results)
   await client.end()
 })
