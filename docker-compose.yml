@@ -1,0 +1,9 @@
+version: "2"
+services:
+  db:
+    image: postgres:10-alpine
+    container_name: cpu-results-db
+    environment:
+      - POSTGRES_PASSWORD=supersecret
+    ports:
+      - "5432:5432"

@@ -708,7 +708,7 @@ Canadian Benchpress Championship|7-Apr-10|Quebec City, QU|Single|F|Denise Ouelle
 2005 CPU Nationals|7-Apr-05|Calgary, AB|Single|F|Susan Haywood|MB|80.5|82.5|&nbsp;|Master 2|&nbsp;|65.0|&nbsp;|65.0|59.271|2005|&nbsp;|
 2005 CPU Nationals|7-Apr-05|Calgary, AB|Single|M|Colin Hartle|IN|62|67.5|&nbsp;|Sub-Junior|&nbsp;|65.0|&nbsp;|65.0|53.830|2005|&nbsp;|
 Avi Silverberg BP Classic|6-Jan-13|Calgary, AB |Single|F|Renae Witzaney|AB|75.6|&nbsp;|84|Open|&nbsp;|65.0|&nbsp;|65.0|61.486|2013|yes|
-Lift The Rock|6-Aug-17|Victoria, BC|All|F|Sherry Eustace|BC| F-M3-U|55.0|&nbsp;|57|yes|47.5|35.0|65.0|147.5|176.010|Master 3|
+Lift The Rock|6-Aug-17|Victoria, BC|All|F|Sherry Eustace|BC| F-M3-U|55.0|&nbsp;|57|47.5|35.0|65.0|147.5|176.010|Master 3|yes|
 2002 BC Provincial Championships|6-Apr-02|Vancouver, BC|Single|F|Shelley Star|BC|52|52|&nbsp;|Open|&nbsp;|65.0|&nbsp;|65.0|81.031|2002|&nbsp;|
 Alberta Provincial Championship|5-Jul-14|Olds, AB|Single|F|Erin Ashbacher|AB|55.1|&nbsp;|57|Open|&nbsp;|65.0|&nbsp;|65.0|77.454|2014|yes|
 Alberta Provincial Championship|5-Jul-14|Olds, AB|Single|M|Dylan Sparks|AB|55.5|&nbsp;|59|Open|&nbsp;|65.0|&nbsp;|65.0|59.696|2014|yes|
@@ -1169,7 +1169,7 @@ BP Provincials|7-Aug-99|Leduc, AB|Single|F|Tara Wickstrom|AB|90|90|&nbsp;|Open|&
 Canadian Benchpress Championship|7-Apr-10|Quebec City, QU|Single|F|Ellynne Dickson|ON|109.4|SHW|&nbsp;|Master 2|&nbsp;|85.0|&nbsp;|85.0|69.191|2010|&nbsp;|
 2005 CPU Nationals|7-Apr-05|Calgary, AB|Single|F|Rhaea Fowler|SK|67.5|67.5|&nbsp;|Sub-Junior|&nbsp;|85.0|&nbsp;|85.0|86.753|2005|&nbsp;|
 2005 CPU Nationals|7-Apr-05|Calgary, AB|Single|F|Lee Ann Dalling|NS|49.3|52|&nbsp;|Open|&nbsp;|85.0|&nbsp;|85.0|110.362|2005|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|F|Meghan O'Connell|BC| F-M2-U|55.3|&nbsp;|57|yes|65.0|45.0|85.0|195.0|231.720|Master 2|
+Lift The Rock|6-Aug-17|Victoria, BC|All|F|Meghan O'Connell|BC| F-M2-U|55.3|&nbsp;|57|65.0|45.0|85.0|195.0|231.720|Master 2|yes|
 PEI Provincial Championship|5-Aug-17|Charlottetown, PEI|Single|M|Tyson Veniot|PE|55.8|&nbsp;|59|Sub-Junior|&nbsp;|85.0|&nbsp;|85.0|77.648|2017|yes|
 Quebec Provincials|30-Oct-11|St-Georges, QU |Single|F|Karyne Turcotte|QU|71.1|&nbsp;|72|Open|&nbsp;|85.0|&nbsp;|85.0|83.666|2011|&nbsp;|
 Eastern Canadian Championship|29-Nov-14|Charlottetown, PEI|Single|M|Ben McNeill|PE|120.3|&nbsp;|120+|Junior|&nbsp;|85.0|&nbsp;|85.0|48.840|2014|yes|
@@ -1406,7 +1406,7 @@ Alberta Provincials|11-Jun-16|Cold Lake, AB|Single|F|Dani Savoie|AB|73.9|&nbsp;|
 Nova Scotia Provincials|11-Jun-11|Greenwood, NS|Single|F|Lee Ann Dalling|NS|53.7|&nbsp;|57|Open|&nbsp;|96.5|&nbsp;|96.5|117.332|2011|&nbsp;|
 Junior BP Provincials|7-Aug-99|Leduc, AB|Single|M|Richard Bartlett|AB|72.28|75|&nbsp;|Junior|&nbsp;|97.5|&nbsp;|97.5|70.960|1999|&nbsp;|
 BP Provincials|7-Aug-99|Leduc, AB|Single|M|Rob Zenari|AB|74.62|75|&nbsp;|Open|&nbsp;|97.5|&nbsp;|97.5|69.995|1999|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|F|Louise Robillard|BC| F-M1-U|61.8|&nbsp;|63|yes|77.5|50.0|97.5|225.0|245.210|Master 1|
+Lift The Rock|6-Aug-17|Victoria, BC|All|F|Louise Robillard|BC| F-M1-U|61.8|&nbsp;|63|77.5|50.0|97.5|225.0|245.210|Master 1|yes|
 Sydney Open|31-Jan-11|Sydney, NS|Single|M|Colin Boutilier|NS|76.3|&nbsp;|83|Master 4|&nbsp;|97.5|&nbsp;|97.5|68.660|2011|&nbsp;|
 1999 Fall Classic - BP Only|30-Oct-99|Coquitlam, BC|Single|M|A. Grewal|BC|75|75|&nbsp;|Open|&nbsp;|97.5|&nbsp;|97.5|69.475|1999|&nbsp;|
 Alberta Provincial Championship|30-Jun-07|Pincher Creek, AB|Single|M|Tyler Pocsik               |AB|72.6|75|&nbsp;|Junior|&nbsp;|97.5|&nbsp;|97.5|71.100|2007|&nbsp;|
@@ -1604,8 +1604,8 @@ Ste Marie Sport Festival|9-Jun-12|Ste Marie, QU|All|F|Nancy Mainville|QU|71.0|&n
 Newfoundland Provincials|8-Jun-13|St. John's, NL|Single|M|Troy Alcock|NL|72.7|&nbsp;|74|Junior|&nbsp;|107.5|&nbsp;|107.5|78.314|2013|yes|
 Ste-Marie Sport Festival|8-Jun-13|Ste-Marie, QU|Single|M|Gabriel Labrecque|QU|68.3|&nbsp;|74|Junior|&nbsp;|107.5|&nbsp;|107.5|82.112|2013|yes|
 2005 CPU Nationals|7-Apr-05|Calgary, AB|Single|F|Monique Hartle|IN|81.8|82.5|&nbsp;|Open|&nbsp;|107.5|&nbsp;|107.5|97.181|2005|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|F|Jordan Gerrard|BC| F-JR-U|61.0|&nbsp;|63|yes|90.0|42.5|107.5|240.0|264.170|Junior|
-Lift The Rock|6-Aug-17|Victoria, BC|All|F|Lisa Leung|BC| F-O-U|59.3|&nbsp;|63|yes|92.5|60.0|107.5|260.0|292.530|Open|
+Lift The Rock|6-Aug-17|Victoria, BC|All|F|Jordan Gerrard|BC| F-JR-U|61.0|&nbsp;|63|90.0|42.5|107.5|240.0|264.170|Junior|yes|
+Lift The Rock|6-Aug-17|Victoria, BC|All|F|Lisa Leung|BC| F-O-U|59.3|&nbsp;|63|92.5|60.0|107.5|260.0|292.530|Open|yes|
 Belle River Open|4-May-13|Belle River, ON|Single|M|Mike Mistruzzi|ON|91.3|&nbsp;|93|Master 1|&nbsp;|107.5|&nbsp;|107.5|68.136|2013|&nbsp;|
 Toronto Supershow|31-May-14|Toronto, ON|Single|M|Brandon Nytschyk|ON|92.2|&nbsp;|93|Junior|&nbsp;|107.5|&nbsp;|107.5|67.810|2014|yes|
 BCPA Fall Classic|2-Nov-13|Abbotsford, BC |Single|M|Gurv Singh|BC|72.0|&nbsp;|74|Open|&nbsp;|107.5|&nbsp;|107.5|78.873|2013|yes|
@@ -1784,8 +1784,8 @@ Ontario Masters/Open Benchpress Championship|12-Nov-16|St. Catherines, ON|Single
 Power In The Parkland|8-Jun-13|Dauphin, MB|Single|M|Mykhailo Fedus|MB|78.6|&nbsp;|83|Open|&nbsp;|115.0|&nbsp;|115.0|79.408|2013|yes|
 East Coast Open|8-Feb-14|Nova Scotia|Single|M|Al Chapman|NS|83.0|&nbsp;|83|Open|&nbsp;|115.0|&nbsp;|115.0|76.760|2014|yes|
 2005 CPU Nationals|7-Apr-05|Calgary, AB|Single|M|Darshan Gill|BC|87.4|90|&nbsp;|Master 3|&nbsp;|115.0|&nbsp;|115.0|74.551|2005|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|F|Chantelle Long|BC| F-O-U|62.2|&nbsp;|63|yes|92.5|45.0|115.0|252.5|273.810|Open|
-Lift The Rock|6-Aug-17|Victoria, BC|All|F|Lindsey Welgush|BC| F-O-U|63.3|&nbsp;|72|yes|80.0|45.0|115.0|240.0|256.820|Open|
+Lift The Rock|6-Aug-17|Victoria, BC|All|F|Chantelle Long|BC| F-O-U|62.2|&nbsp;|63|92.5|45.0|115.0|252.5|273.810|Open|yes|
+Lift The Rock|6-Aug-17|Victoria, BC|All|F|Lindsey Welgush|BC| F-O-U|63.3|&nbsp;|72|80.0|45.0|115.0|240.0|256.820|Open|yes|
 BP Nationals|5-Mar-99|Sherbrooke, QU|All|M|Byron Monster|NF|88.3|90|&nbsp;|Open|&nbsp;|115.0|&nbsp;|115.0|74.140|1999|&nbsp;|
 Masters BP Nationals|5-Mar-99|Sherbrooke, QU|All|M|Byron Monster|NF|88.3|90|&nbsp;|Master 1|&nbsp;|115.0|&nbsp;|115.0|74.140|1999|&nbsp;|
 QPF North Shore Open|3-Oct-09|Baie-Comeau, QU|Single|M|Martin Nadeau|QU|65.5|67.5|&nbsp;|Open|&nbsp;|115.0|&nbsp;|115.0|90.866|2009|&nbsp;|
@@ -1859,8 +1859,8 @@ Alberta Provincials|06-Dec-03|Calgary, AB|Single|M|Kristian Leach    |AB|66.8|67
 Central Canadian Championship|05-Jan-17|Guelph, ON|Single|M|Matt Goldsmith|ON|82.0|&nbsp;|83|Open|&nbsp;|115.0|&nbsp;|115.0|77.349|2017|yes|
 Nova Scotia Prov. Bench|7-May-05|Sackville, NS|Single|F|Janice MacDonald    |NS|89.2|90|&nbsp;|Open|&nbsp;|117.5|&nbsp;|117.5|101.900|2005|&nbsp;|
 Quebec Provincials|6-Nov-10|Baie-Comeau, QU|Single|M|Sébastien Ouellet|QU|62.5|67.5|&nbsp;|Open|&nbsp;|117.5|&nbsp;|117.5|96.624|2010|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|F|Camilla Mann|BC| F-O-U|67.6|&nbsp;|72|yes|85.0|60.0|117.5|262.5|267.620|Open|
-Lift The Rock|6-Aug-17|Victoria, BC|All|F|Haley Kruse|BC| F-JR-U|66.8|&nbsp;|72|yes|107.5|50.0|117.5|275.0|282.780|Junior|
+Lift The Rock|6-Aug-17|Victoria, BC|All|F|Camilla Mann|BC| F-O-U|67.6|&nbsp;|72|85.0|60.0|117.5|262.5|267.620|Open|yes|
+Lift The Rock|6-Aug-17|Victoria, BC|All|F|Haley Kruse|BC| F-JR-U|66.8|&nbsp;|72|107.5|50.0|117.5|275.0|282.780|Junior|yes|
 2002 BC Provincial Championships|6-Apr-02|Vancouver, BC|Single|M|Mangal Binning|BC|67.5|67.5|&nbsp;|Open|&nbsp;|117.5|&nbsp;|117.5|90.594|2002|&nbsp;|
 Toronto Supershow|4-Jun-16|Toronto, ON|Single|M|Brandon Nytschyk|ON|105|&nbsp;|102.5|Open|&nbsp;|117.5|&nbsp;|117.5|70.829|2016|yes|
 BP Provincials|4-Apr-98|Baie-Comeau, QU|Single|M|Kevin Fillion|QU|72.8|75|&nbsp;|Junior|&nbsp;|117.5|&nbsp;|117.5|85.517|1998|&nbsp;|
@@ -1915,7 +1915,7 @@ Montreal Open|7-Dec-13|Montreal, QU|Single|M|Jacob Lanyado|QU|95.2|&nbsp;|105|Op
 Canadian Benchpress Championship|7-Apr-10|Quebec City, QU|Single|M|Dalton Major|ON|66.4|67.5|&nbsp;|Sub-Junior|&nbsp;|120.0|&nbsp;|120.0|93.758|2010|&nbsp;|
 BC Fall Classic|6-Nov-11|Vancouver, BC|Single|M|Bill You|BC|72.8|&nbsp;|74|Master 1|&nbsp;|120.0|&nbsp;|120.0|87.336|2011|&nbsp;|
 2004 Eastern Canadian Benchpress|6-Nov-04|Stephenville, NL|Single|M|Frank Williams|NL|90|90|&nbsp;|Master 2|&nbsp;|120.0|&nbsp;|120.0|76.610|2004|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|F|Hali Shular|BC| F-M1-U|116.1|&nbsp;| 84+|yes|105.0|60.0|120.0|285.0|229.280|Master 1|
+Lift The Rock|6-Aug-17|Victoria, BC|All|F|Hali Shular|BC| F-M1-U|116.1|&nbsp;| 84+|105.0|60.0|120.0|285.0|229.280|Master 1|yes|
 1999 Saskatchewan Special Olympics Powerlifting|5-Nov-99|Moose Jaw, SK|All|M|Trevor Ruslich|SK|100|100|&nbsp;|SO|&nbsp;|45.0|75.0|120.0|73.031|1999|&nbsp;|
 12th Annual Deadlift Open|5-May-01|Waterloo, ON|Single|F|J. Lessard|ON|60|60|&nbsp;|Open|&nbsp;|&nbsp;|120.0|120.0|133.786|2001|&nbsp;|
 12th Annual Deadlift Open|5-May-01|Waterloo, ON|Single|F|J. Lessard|ON|60|60|&nbsp;|Open|&nbsp;|&nbsp;|120.0|120.0|133.786|2001|&nbsp;|
@@ -2048,8 +2048,8 @@ Alberta Provincial Championship|8-Jul-11|Calgary, AB|Single|M|Hugh Leiper |AB|91
 Ste-Marie Sport Festival|7-Jun-14|Ste-Marie, QU |Single|M|Claude Dallaire|QU|91.1|&nbsp;|93|Master 2|&nbsp;|125.0|&nbsp;|125.0|79.310|2014|yes|
 Canadian Benchpress Championship|7-Apr-10|Quebec City, QU|Single|M|Dal Ghag|BC|94.7|100|&nbsp;|Sub-Junior|&nbsp;|125.0|&nbsp;|125.0|77.865|2010|&nbsp;|
 BC Fall Classic|6-Nov-11|Vancouver, BC|Single|M|Christopher Bartolomeo|BC|107.7|&nbsp;|120|Open|&nbsp;|125.0|&nbsp;|125.0|74.050|2011|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|F|Patricia Neale|BC| F-M2-U|94.2|&nbsp;| 84+|yes|50.0|37.5|125.0|212.5|180.390|Master 2|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Jack Chin|BC| M-M3-U|90.0|&nbsp;|93|yes|177.5|75.0|125.0|377.5|241.000|Master 3|
+Lift The Rock|6-Aug-17|Victoria, BC|All|F|Patricia Neale|BC| F-M2-U|94.2|&nbsp;| 84+|50.0|37.5|125.0|212.5|180.390|Master 2|yes|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Jack Chin|BC| M-M3-U|90.0|&nbsp;|93|177.5|75.0|125.0|377.5|241.000|Master 3|yes|
 Masters BP Nationals|5-Mar-99|Sherbrooke, QU|All|M|Bob Reid|SK|88.8|90|&nbsp;|Master 2|&nbsp;|125.0|&nbsp;|125.0|80.350|1999|&nbsp;|
 BP Nationals|5-Mar-99|Sherbrooke, QU|All|M|Bob Reid|SK|88.8|90|&nbsp;|Open|&nbsp;|125.0|&nbsp;|125.0|80.350|1999|&nbsp;|
 PEI Provincial Championship|5-Aug-17|Charlottetown, PEI|Single|M|Caleb Boreland|PE|81.6|&nbsp;|83|Sub-Junior|&nbsp;|125.0|&nbsp;|125.0|84.300|2017|yes|
@@ -2221,9 +2221,9 @@ PEI Provincials|7-Feb-15|Charlottetown, PE|Single|M|Tilman Gallant|PE|86.7|&nbsp
 Canadian Benchpress Championship|7-Apr-10|Quebec City, QU|Single|M|Pierre Luc LaBrie|QU|100.7|110|&nbsp;|Open|&nbsp;|130.0|&nbsp;|130.0|78.898|2010|&nbsp;|
 Saguenay Open|6-Aug-17|Saguenay, QU|Single|M|Gaetan Pineault|QU|97.8|&nbsp;|105|Master 2|&nbsp;|130.0|&nbsp;|130.0|79.850|2017|yes|
 Bay Noppers Memorial|6-Aug-17|Edmonton, AB|Single|M|Shawn Wruth|AB|82.5|&nbsp;|83|Open|&nbsp;|130.0|&nbsp;|130.0|87.087|2017|yes|
-Lift The Rock|6-Aug-17|Victoria, BC|All|F|Lee-Anne Maguire|BC| F-M1-U|66.5|&nbsp;|72|yes|87.5|52.5|130.0|270.0|278.560|Master 1|
-Lift The Rock|6-Aug-17|Victoria, BC|All|F|Stephanie Tickner|BC| F-O-U|55.9|&nbsp;|57|yes|107.5|57.5|130.0|295.0|347.600|Open|
-Lift The Rock|6-Aug-17|Victoria, BC|All|F|Monica Wille|BC| F-M2-U|90.3|&nbsp;| 84+|yes|72.5|87.5|130.0|290.0|250.240|Master 2|
+Lift The Rock|6-Aug-17|Victoria, BC|All|F|Lee-Anne Maguire|BC| F-M1-U|66.5|&nbsp;|72|87.5|52.5|130.0|270.0|278.560|Master 1|yes|
+Lift The Rock|6-Aug-17|Victoria, BC|All|F|Stephanie Tickner|BC| F-O-U|55.9|&nbsp;|57|107.5|57.5|130.0|295.0|347.600|Open|yes|
+Lift The Rock|6-Aug-17|Victoria, BC|All|F|Monica Wille|BC| F-M2-U|90.3|&nbsp;| 84+|72.5|87.5|130.0|290.0|250.240|Master 2|yes|
 12th Annual Deadlift Open|5-May-01|Waterloo, ON|Single|F|L. Squires|ON|67.5|67.5|&nbsp;|Open|&nbsp;|&nbsp;|130.0|130.0|132.681|2001|&nbsp;|
 12th Annual Deadlift Open|5-May-01|Waterloo, ON|Single|F|L. Squires|ON|67.5|67.5|&nbsp;|Open|&nbsp;|&nbsp;|130.0|130.0|132.681|2001|&nbsp;|
 BP Nationals|5-Mar-99|Sherbrooke, QU|Single|M|Allan Gallant|AB|66.6|67.5|&nbsp;|Open|&nbsp;|130.0|&nbsp;|130.0|101.320|1999|&nbsp;|
@@ -2325,7 +2325,7 @@ Ste-Marie Sport Festival|8-Jun-13|Ste-Marie, QU|Single|M|Denis Jinchereau|QU|101
 Ste-Marie Sport Festival|7-Jun-14|Ste-Marie, QU |Single|M|Maxime Lamarre|QU|76.7|&nbsp;|83|Junior|&nbsp;|132.5|&nbsp;|132.5|92.980|2014|&nbsp;|
 Ste-Marie Sport Festival|7-Jun-14|Ste-Marie, QU |Single|M|Bradley Jenkin|QU|107.3|&nbsp;|120|Open|&nbsp;|132.5|&nbsp;|132.5|78.600|2014|yes|
 Master BP Provincials|7-Aug-99|Leduc, AB|Single|M|Don Cruickshank|AB|80.92|82.5|&nbsp;|Master 1|&nbsp;|132.5|&nbsp;|132.5|90.312|1999|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|F|Shadie Bourget|BC| F-O-U|62.2|&nbsp;|63|yes|112.5|77.5|132.5|322.5|349.720|Open|
+Lift The Rock|6-Aug-17|Victoria, BC|All|F|Shadie Bourget|BC| F-O-U|62.2|&nbsp;|63|112.5|77.5|132.5|322.5|349.720|Open|yes|
 1999 Saskatchewan Special Olympics Powerlifting|5-Nov-99|Moose Jaw, SK|All|M|Jack Gude|SK|82.5|82.5|&nbsp;|SO|&nbsp;|37.5|95.0|132.5|88.763|1999|&nbsp;|
 BP Nationals|5-Mar-99|Sherbrooke, QU|All|M|Richard Lush|NF|67.1|67.5|&nbsp;|Open|&nbsp;|132.5|&nbsp;|132.5|102.640|1999|&nbsp;|
 Junior BP Nationals|5-Mar-99|Sherbrooke, QU|All|M|Jamie Emberley|NF|80.6|82.5|&nbsp;|Junior|&nbsp;|132.5|&nbsp;|132.5|90.033|1999|&nbsp;|
@@ -2404,7 +2404,7 @@ Nova Scotia Prov. Bench|7-May-05|Sackville, NS|Single|M|Adam Garnham        |PE|
 Nova Scotia Prov. Bench|7-May-05|Sackville, NS|Single|M|Sam Arsenault             |PE|91.5|100|&nbsp;|Junior|&nbsp;|135.0|&nbsp;|135.0|85.500|2005|&nbsp;|
 Cold Lake Barbenders Prairie Open|7-Feb-15|Cold Lake, AB|Single|M|Steve Hollingshead|AB|91.4|&nbsp;|93|Open|&nbsp;|135.0|&nbsp;|135.0|85.523|2015|yes|
 Canadian Benchpress Championship|7-Apr-10|Quebec City, QU|Single|F|Taunia Stevens|SK|75.4|82.5|&nbsp;|Open|&nbsp;|135.0|&nbsp;|135.0|127.912|2010|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|F|Andree Noye|BC| F-M1-U|100.5|&nbsp;| 84+|yes|107.5|77.5|135.0|320.0|266.050|Master 1|
+Lift The Rock|6-Aug-17|Victoria, BC|All|F|Andree Noye|BC| F-M1-U|100.5|&nbsp;| 84+|107.5|77.5|135.0|320.0|266.050|Master 1|yes|
 BP Nationals|5-Mar-99|Sherbrooke, QU|All|M|Sylvain Hebert|QU|86.5|90|&nbsp;|Open|&nbsp;|135.0|&nbsp;|135.0|88.006|1999|&nbsp;|
 Moose Pull Benchpress|5-Jun-04|Moose Jaw, SK|Single|M|Jerrod Thul      |SK|90|90|&nbsp;|Sub-Junior|&nbsp;|135.0|&nbsp;|135.0|86.180|2004|&nbsp;|
 PEI Provincial Championship|5-Aug-17|Charlottetown, PEI|Single|M|Edvins Ozolins|NS|106.8|&nbsp;|120|Master 3|&nbsp;|135.0|&nbsp;|135.0|80.203|2017|yes|
@@ -2599,7 +2599,7 @@ Saguenay Open|8-Nov-14|Saguenay, QU|Single|M|Yves Dubois|QU|90.1|&nbsp;|93|Maste
 1998 Eastern Quebec Bench Press Qualifier|7-Nov-98|Rimouski, QU|Single|M|Sylvain Hebert|QU|84.5|90|&nbsp;|Open|&nbsp;|140.0|&nbsp;|140.0|92.479|1998|&nbsp;|
 1998 Eastern Quebec Bench Press Qualifier|7-Nov-98|Rimouski, QU|Single|M|Georges Labrecque|QU|69|75|&nbsp;|Master 3|&nbsp;|140.0|&nbsp;|140.0|106.086|1998|&nbsp;|
 Belle River Open|6-Sep-14|Belle River, ON|Single|M|Kyle Breutigam|ON|90.8|&nbsp;|93|Open|&nbsp;|140.0|&nbsp;|140.0|88.984|2014|yes|
-Lift The Rock|6-Aug-17|Victoria, BC|All|F|Carley Petillion|BC| F-O-U|77.5|&nbsp;|84|yes|90.0|62.5|140.0|292.5|272.550|Open|
+Lift The Rock|6-Aug-17|Victoria, BC|All|F|Carley Petillion|BC| F-O-U|77.5|&nbsp;|84|90.0|62.5|140.0|292.5|272.550|Open|yes|
 Alberta Provincial Championship|5-Jul-14|Olds, AB|Single|M|Darwin Eckstrom|AB|111.0|&nbsp;|120|Master 3|&nbsp;|140.0|&nbsp;|140.0|82.166|2014|yes|
 2000 Eastern Canadian Championships - Bench Only|4-Nov-00|Charlottetown, PE|Single|M|Wayne McGrath|PE|97|100|&nbsp;|Master 1|&nbsp;|140.0|&nbsp;|140.0|86.287|2000|&nbsp;|
 Saquenay Open|4-Feb-12|Jonquiere, QU|Single|M|Claude Dallaire|QU|89.8|&nbsp;|93|Master 2|&nbsp;|140.0|140.0|140.0|89.477|2012|&nbsp;|
@@ -2837,7 +2837,7 @@ Canadian Benchpress Championship|7-Apr-10|Quebec City, QU|Single|F|Rhaea Fowler|
 Belle River Open|6-Sep-14|Belle River, ON|Single|M|Jeff MacDonald|ON|91.0|&nbsp;|93|Master 2|&nbsp;|145.0|&nbsp;|145.0|92.061|2014|yes|
 QPF Provincials|6-Oct-12|Jonquiere, QU|Single|M|Léo Hollier|QU|79.5|&nbsp;|83|Open|&nbsp;|145.0|&nbsp;|145.0|99.385|2012|yes|
 2004 Eastern Canadian Benchpress|6-Nov-04|Stephenville, NL|Single|M|John James|NL|125|125|&nbsp;|Master 1|&nbsp;|145.0|&nbsp;|145.0|82.620|2004|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|F|Ann Conrod|BC| F-O-U|68.6|&nbsp;|72|yes|112.5|60.0|145.0|317.5|320.360|Open|
+Lift The Rock|6-Aug-17|Victoria, BC|All|F|Ann Conrod|BC| F-O-U|68.6|&nbsp;|72|112.5|60.0|145.0|317.5|320.360|Open|yes|
 BP Nationals|5-Mar-99|Sherbrooke, QU|All|M|Harnek Singh Rai|ON|74|75|&nbsp;|Open|&nbsp;|145.0|&nbsp;|145.0|104.290|1999|&nbsp;|
 Masters BP Nationals|5-Mar-99|Sherbrooke, QU|All|M|Harnek Singh Rai|ON|74|75|&nbsp;|Master 1|&nbsp;|145.0|&nbsp;|145.0|104.290|1999|&nbsp;|
 BP Nationals|5-Mar-99|Sherbrooke, QU|All|M|Simon Poulin|QU|97.3|100|&nbsp;|Open|&nbsp;|145.0|&nbsp;|145.0|89.247|1999|&nbsp;|
@@ -3289,8 +3289,8 @@ Alberta Provincials|7-Jul-13|Calgary, AB|Single|M|Charlie Lee|AB|89.7|&nbsp;|93|
 2005 CPU Nationals|7-Apr-05|Calgary, AB|Single|M|Rudy Prive|QU|74.4|75|&nbsp;|Junior|&nbsp;|155.0|&nbsp;|155.0|111.070|2005|&nbsp;|
 QPF Provincials|6-Oct-12|Jonquiere, QU|Single|M|France Gagné|QU|104.1|&nbsp;|105|Master 2|&nbsp;|155.0|&nbsp;|155.0|92.904|2012|yes|
 Avi Silverberg BP Classic|6-Jan-13|Calgary, AB |Single|M|Daryl Dillman|AB|83.0|&nbsp;|83|Junior|&nbsp;|155.0|&nbsp;|155.0|103.462|2013|yes|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Tony Tran|BC| M-O-U|64.9|&nbsp;|66|yes|122.5|90.0|155.0|367.5|292.600|Open|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Mark Childs|BC| M-O-U|86.3|&nbsp;|93|yes|140.0|80.0|155.0|375.0|244.800|Open|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Tony Tran|BC| M-O-U|64.9|&nbsp;|66|122.5|90.0|155.0|367.5|292.600|Open|yes|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Mark Childs|BC| M-O-U|86.3|&nbsp;|93|140.0|80.0|155.0|375.0|244.800|Open|yes|
 Urban Athletic Games|5-Oct-13|Calgary, AB|Single|M|Charlie Lee|AB|91.3|&nbsp;|93|Open|&nbsp;|155.0|&nbsp;|155.0|98.239|2013|yes|
 PEI Provincial Championship|5-Aug-17|Charlottetown, PEI|Single|M|Daryl Dillman|NS|82.3|&nbsp;|83|Open|&nbsp;|155.0|&nbsp;|155.0|103.989|2017|yes|
 BC Fall Classic|4-Nov-12|Abbotsford, BC|Single|M|John Wesley Cummings|BC|110.2|&nbsp;|120|Junior|&nbsp;|155.0|&nbsp;|155.0|91.171|2012|yes|
@@ -3494,7 +3494,7 @@ Nova Scotia Prov. Bench|7-May-05|Sackville, NS|Single|M|Adam Pitre          |NB|
 Nova Scotia Prov. Bench|7-May-05|Sackville, NS|Single|M|Steve Dumont         |NS|79.2|82.5|&nbsp;|Open|&nbsp;|160.0|&nbsp;|160.0|109.900|2005|&nbsp;|
 Nova Scotia Prov. Bench|7-May-05|Sackville, NS|Single|M|Paul Gidney             |NS|94.2|100|&nbsp;|Master 1|&nbsp;|160.0|&nbsp;|160.0|99.900|2005|&nbsp;|
 2005 CPU Nationals|7-Apr-05|Calgary, AB|Single|M|Rob Miller|SK|72.6|75|&nbsp;|Open|&nbsp;|160.0|&nbsp;|160.0|116.682|2005|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Stephen Browne|BC| M-O-U|78.7|&nbsp;|83|yes|127.5|80.0|160.0|367.5|253.540|Open|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Stephen Browne|BC| M-O-U|78.7|&nbsp;|83|127.5|80.0|160.0|367.5|253.540|Open|yes|
 2002 BC Provincial Championships|6-Apr-02|Vancouver, BC|Single|M|Nathan Sangera|BC|110|110|&nbsp;|Open|&nbsp;|160.0|&nbsp;|160.0|94.159|2002|&nbsp;|
 Urban Athletic Games|5-Oct-13|Calgary, AB|All|F|Andrea Lawrence|AB|65.1|&nbsp;|72|Open|60.0|35.0|65.0|160.0|167.664|2013|yes|
 1999 Saskatchewan Powerlifting - Bench Only|5-Nov-99|Moose Jaw, SK|Single|M|B Desjarlais|SK|82.5|82.5|&nbsp;|Master 2|&nbsp;|160.0|&nbsp;|160.0|107.185|1999|&nbsp;|
@@ -3701,7 +3701,7 @@ Nova Scotia Provincial|7-May-05|Sackville, NS|All|F|Lyndsay Porter |NB|57.5|60|&
 2005 CPU Nationals|7-Apr-05|Calgary, AB|Single|M|Aaron Ziffle|SK|82.3|82.5|&nbsp;|Open|&nbsp;|165.0|&nbsp;|165.0|110.696|2005|&nbsp;|
 BC Fall Classic|6-Nov-11|Vancouver, BC|Single|M|Roberto Lorenzo Villalta|BC|92.3|&nbsp;|93|Junior|&nbsp;|165.0|&nbsp;|165.0|104.033|2011|&nbsp;|
 Quebec Provincials|6-Nov-10|Baie-Comeau, QU|Single|M|Olivier Dufour|QU|79.5|82.5|&nbsp;|Sub-Junior|&nbsp;|165.0|&nbsp;|165.0|119.879|2010|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Christopher Robillard|BC| M-M1-U|64.4|&nbsp;|66|yes|122.5|92.5|165.0|380.0|304.530|Master 1|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Christopher Robillard|BC| M-M1-U|64.4|&nbsp;|66|122.5|92.5|165.0|380.0|304.530|Master 1|yes|
 Moose Pull Benchpress|5-Jun-04|Moose Jaw, SK|Single|M|Ryan Fowler      |SK|139.6|SHW|&nbsp;|Junior|&nbsp;|165.0|&nbsp;|165.0|92.243|2004|&nbsp;|
 BC Fall Classic|4-Nov-12|Abbotsford, BC|Single|M|Jason Allard|BC|92.15|&nbsp;|93|Open|&nbsp;|165.0|&nbsp;|165.0|104.115|2012|&nbsp;|
 2000 Eastern Canadian Championships - Bench Only|4-Nov-00|Charlottetown, PE|Single|M|Jamie Emberly|PE|92.2|100|&nbsp;|Junior|&nbsp;|165.0|&nbsp;|165.0|104.081|2000|&nbsp;|
@@ -3880,7 +3880,7 @@ Canadian Benchpress Championship|7-Apr-10|Quebec City, QU|Single|M|Paul Gidney|N
 Canadian Benchpress Championship|7-Apr-10|Quebec City, QU|Single|M|Andrew Bryant|BC|83.5|90|&nbsp;|Master 1|&nbsp;|170.0|&nbsp;|170.0|113.074|2010|&nbsp;|
 2005 CPU Nationals|7-Apr-05|Calgary, AB|Single|M|Paul Gidney|NS|97.8|100|&nbsp;|M1|&nbsp;|170.0|&nbsp;|170.0|104.410|2005|&nbsp;|
 2005 CPU Nationals|7-Apr-05|Calgary, AB|Single|M|Daniel Royer|QU|107.9|110|&nbsp;|Master 1|&nbsp;|170.0|&nbsp;|170.0|100.654|2005|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Don Lovell|BC| M-M3-U|64.6|&nbsp;|74|yes|113.0|65.0|170.0|348.0|366.760|Master 3|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Don Lovell|BC| M-M3-U|64.6|&nbsp;|74|113.0|65.0|170.0|348.0|366.760|Master 3|yes|
 2002 BC Provincial Championships|6-Apr-02|Vancouver, BC|Single|M|Tony Tomra|BC|110|110|&nbsp;|Open|&nbsp;|170.0|&nbsp;|170.0|100.044|2002|&nbsp;|
 Masters BP Nationals|5-Mar-99|Sherbrooke, QU|Single|M|John Fraser|NS|81.8|82.5|&nbsp;|Master 1|&nbsp;|170.0|&nbsp;|170.0|114.470|1999|&nbsp;|
 Masters BP Nationals|5-Mar-99|Sherbrooke, QU|All|M|Denis Chasse|QU|116.8|125|&nbsp;|Master 1|&nbsp;|170.0|&nbsp;|170.0|98.379|1999|&nbsp;|
@@ -4184,7 +4184,7 @@ Last Chance 2011|12-Dec-11|Moose Jaw, SK|All|F|Rachel Thera|SK|51.3|&nbsp;|52|Su
 Ste Marie Sport Festival|9-Jun-12|Ste Marie, QU|Single|M|Marc Rioux|QU|116.5|&nbsp;|120|Master 2|&nbsp;|177.5|&nbsp;|177.5|102.788|2012|yes|
 BC High School Powerlifting Championships|9-Jun-01|New Westminster, BC|All|F|Jennifer Mellesmoen|BC|67.5|67.5|&nbsp;|Junior|47.5|40.0|90.0|177.5|181.160|2001|&nbsp;|
 2001 Vancouver Island High School Powerlifting Championships|8-Dec-01|Nanaimo, BC|All|F|Jennifer Yu|BC|44|44|&nbsp;|Junior|65.0|32.5|80.0|177.5|252.970|2001|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|David Bell|BC| M-O-U|78.5|&nbsp;|83|yes|135.0|92.5|177.5|405.0|279.860|Open|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|David Bell|BC| M-O-U|78.5|&nbsp;|83|135.0|92.5|177.5|405.0|279.860|Open|yes|
 1999 Guelph Invitational Powerlifting Championships|5-Dec-99|Guelph, ON|All|F|Mary Greenidge|ON|82.5|82.5|&nbsp;|Open|70.0|37.5|70.0|177.5|159.750|1999|&nbsp;|
 1999 Guelph Invitational Powerlifting Championships|5-Dec-99|Guelph, ON|All|F|Mary Greenidge|ON|82.5|82.5|&nbsp;|Open|70.0|37.5|70.0|177.5|159.750|1999|&nbsp;|
 2000 August Classic - Bench Only|5-Aug-00|Corner Brook, NF|Single|M|Jamie Jury|NF|125|125|&nbsp;|Open|&nbsp;|177.5|&nbsp;|177.5|101.147|2000|&nbsp;|
@@ -4438,9 +4438,9 @@ Canadian Benchpress Championship|7-Apr-10|Quebec City, QU|Single|M|Jerry Marente
 Canadian Benchpress Championship|7-Apr-10|Quebec City, QU|Single|M|Adrian Ninaber|ON|108.9|110|&nbsp;|Master 2|&nbsp;|185.0|&nbsp;|185.0|109.212|2010|&nbsp;|
 Canadian Benchpress Championship|7-Apr-10|Quebec City, QU|Single|M|Jean-Philippe Eliassaint|QU|99.8|100|&nbsp;|Master 1|&nbsp;|185.0|&nbsp;|185.0|112.679|2010|&nbsp;|
 2005 CPU Nationals|7-Apr-05|Calgary, AB|Single|M|Scott Lucyk|AB|78.6|82.5|&nbsp;|Junior|&nbsp;|185.5|&nbsp;|185.0|128.079|2005|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Conrad Fletcher|BC| M-O-U|89.2|&nbsp;|93|yes|160.0|117.5|185.0|462.5|296.600|Open|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Owen Pite|BC| M-JR-U|82.7|&nbsp;|83|yes|160.0|112.5|185.0|457.5|306.020|Junior|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Ryan Mullin|BC| M-JR-U|79.8|&nbsp;|83|yes|165.0|115.0|185.0|465.0|317.970|Junior|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Conrad Fletcher|BC| M-O-U|89.2|&nbsp;|93|160.0|117.5|185.0|462.5|296.600|Open|yes|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Owen Pite|BC| M-JR-U|82.7|&nbsp;|83|160.0|112.5|185.0|457.5|306.020|Junior|yes|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Ryan Mullin|BC| M-JR-U|79.8|&nbsp;|83|165.0|115.0|185.0|465.0|317.970|Junior|yes|
 Central Quebec Challenge|6-Apr-13|Drummondville, QU|All|M|Vincent Legault|QU|72.4|&nbsp;|74|Open|165.0|115.0|205.0|185.0|354.389|2013|yes|
 1999 Saskatchewan Special Olympics Powerlifting|5-Nov-99|Moose Jaw, SK|All|M|Peter Beuter|SK|110|110|&nbsp;|SO|&nbsp;|55.0|130.0|185.0|108.871|1999|&nbsp;|
 DEF Championship|4-Oct-14|Charlottetown, PEI|All|F|Mel Mac|PE|96.5|&nbsp;|84+|Master 1|45.0|47.5|92.5|185.0|155.750|2014|yes|
@@ -4968,8 +4968,8 @@ Canadian Benchpress Championship|7-Apr-10|Quebec City, QU|Single|M|Serge Leduc|O
 2005 CPU Nationals|7-Apr-05|Calgary, AB|Single|M|John Kirkbride|BC|114.5|125|&nbsp;|Master 1|&nbsp;|200.0|&nbsp;|200.0|116.346|2005|&nbsp;|
 Quebec Provincials|6-Nov-10|Baie-Comeau, QU|Single|M|Henri-Paul Tremblay|QU|128.6|SHW|&nbsp;|Junior|&nbsp;|200.0|&nbsp;|200.0|117.876|2010|&nbsp;|
 Quebec Provincials|6-Nov-10|Baie-Comeau, QU|Single|M|Martin Ferland|QU|108.0|110|&nbsp;|Master 1|&nbsp;|200.0|&nbsp;|200.0|128.088|2010|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Alexander Rennie|BC| M-O-U|82.3|&nbsp;|83|yes|185.0|120.0|200.0|505.0|338.800|Open|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Kenneth Price|BC| M-JR-U|71.5|&nbsp;|74|yes|182.5|120.0|200.0|502.5|370.590|Junior|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Alexander Rennie|BC| M-O-U|82.3|&nbsp;|83|185.0|120.0|200.0|505.0|338.800|Open|yes|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Kenneth Price|BC| M-JR-U|71.5|&nbsp;|74|182.5|120.0|200.0|502.5|370.590|Junior|yes|
 12th Annual Deadlift Open|5-May-01|Waterloo, ON|Single|M|R. Silverthorne|ON|75|75|&nbsp;|Open|&nbsp;|&nbsp;|200.0|200.0|142.512|2001|&nbsp;|
 12th Annual Deadlift Open|5-May-01|Waterloo, ON|Single|M|R. Silverthorne|ON|75|75|&nbsp;|Open|&nbsp;|&nbsp;|200.0|200.0|142.512|2001|&nbsp;|
 12th Annual Deadlift Open|5-May-01|Waterloo, ON|Single|M|K. Stirling|ON|82.5|82.5|&nbsp;|Open|&nbsp;|&nbsp;|200.0|200.0|133.981|2001|&nbsp;|
@@ -5160,7 +5160,7 @@ Ste-Marie Sport Festival|7-Jun-14|Ste-Marie, QU |Single|M|Mathieu Tremblay|QU|92
 PEI Provincials|7-Feb-15|Charlottetown, PE|All|F|Nancy Mollison|PE|87.3|&nbsp;|84+|Master 1|75.0|37.5|92.5|205.0|179.480|2015|yes|
 2005 CPU Nationals|7-Apr-05|Calgary, AB|Single|M|Ryan Fowler|SK|136.7|SHW|&nbsp;|Junior|&nbsp;|205.0|&nbsp;|205.0|114.975|2005|&nbsp;|
 Quebec Provincials|6-Nov-10|Baie-Comeau, QU|Single|M|Dale Bélanger Bouffard|QU|80.1|82.5|&nbsp;|Sub-Junior|&nbsp;|205.0|&nbsp;|205.0|148.234|2010|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Hal Kreisel|BC| M-O-U|82.6|&nbsp;|83|yes|167.5|97.5|205.0|470.0|314.620|Open|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Hal Kreisel|BC| M-O-U|82.6|&nbsp;|83|167.5|97.5|205.0|470.0|314.620|Open|yes|
 2000 August Classic - Bench Only|5-Aug-00|Corner Brook, NF|Single|M|Noel Doucette|PE|125|125|&nbsp;|Open|&nbsp;|205.0|&nbsp;|205.0|116.818|2000|&nbsp;|
 BC Fall Classic|4-Nov-12|Abbotsford, BC|Single|M|Brian Rock|BC|104.4|&nbsp;|105|Master 2|&nbsp;|205.0|&nbsp;|205.0|122.754|2012|&nbsp;|
 2000 Eastern Canadian Championships - Bench Only|4-Nov-00|Charlottetown, PE|Single|M|Darren Weatherbie|PE|96.9|100|&nbsp;|Open|&nbsp;|205.0|&nbsp;|205.0|126.404|2000|&nbsp;|
@@ -5418,8 +5418,8 @@ Quebec Provincials|6-Nov-10|Baie-Comeau, QU|All|M|Nicolas Rioux|QU|48.5|52|&nbsp
 Arnold Sports Festival|6-Mar-15|Columbus, Ohio|Single|M|Leon Brown|ON|98.1|&nbsp;|105|Master 1|&nbsp;|212.5|&nbsp;|212.5|98.1|2015|yes|
 Arnold Sports Festival|6-Mar-15|Columbus, Ohio|Single|M|Leon Brown|ON|98.1|&nbsp;|105|Open|&nbsp;|212.5|&nbsp;|212.5|130.347|2015|yes|
 Bay Noppers Memorial|6-Aug-17|Edmonton, AB|All|F|Autumn Reinhardt-Simpson|AB|94.9|&nbsp;|84+|Open|60.0|47.5|105.0|212.5|179.924|2017|yes|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Mason Jennings|BC| M-JR-U|83.6|&nbsp;|93|yes|170.0|105.0|212.5|487.5|324.040|Junior|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Silas Romig|BC| M-O-U|73.7|&nbsp;|74|yes|177.5|105.0|212.5|495.0|357.090|Open|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Mason Jennings|BC| M-JR-U|83.6|&nbsp;|93|170.0|105.0|212.5|487.5|324.040|Junior|yes|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Silas Romig|BC| M-O-U|73.7|&nbsp;|74|177.5|105.0|212.5|495.0|357.090|Open|yes|
 Urban Athletic Games|5-Oct-13|Calgary, AB|All|F|Laura Hutson|AB|49.6|&nbsp;|52|Open|67.5|55.0|90.0|212.5|274.656|2013|yes|
 BP Nationals|5-Mar-99|Sherbrooke, QU|All|M|Curd Hos|ON|155.3|SHW|&nbsp;|Open|&nbsp;|212.5|&nbsp;|212.5|117.000|1999|&nbsp;|
 Alberta Provincial Championship|5-Jul-14|Olds, AB|Single|M|Seth Albersworth|AB|140.7|&nbsp;|120+|Junior|&nbsp;|212.5|&nbsp;|212.5|118.660|2014|&nbsp;|
@@ -5645,7 +5645,7 @@ Alberta Provincial Championship|8-Jul-11|Calgary, AB|Single|M|Alex Mardell |AB|1
 Canadian Benchpress Championship|7-Apr-10|Quebec City, QU|Single|M|Shaun Caruk|MB|131.7|SHW|&nbsp;|Open|&nbsp;|220.0|&nbsp;|220.0|124.146|2010|&nbsp;|
 Belle River Open|6-Sep-14|Belle River, ON|All|F|Mary Lupton|ON|91.4|&nbsp;|84+|Master 3|77.5|47.5|95.0|220.0|188.900|2014|yes|
 2004 Eastern Canadian Benchpress|6-Nov-04|Stephenville, NL|Single|M|Clifford Samms|NS|125|125|&nbsp;|Open|&nbsp;|220.0|&nbsp;|220.0|125.360|2004|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Conrad Cowan|BC| M-M1-U|92.0|&nbsp;|93|yes|195.0|142.5|220.0|557.5|352.060|Master 1|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Conrad Cowan|BC| M-M1-U|92.0|&nbsp;|93|195.0|142.5|220.0|557.5|352.060|Master 1|yes|
 Urban Athletic Games|5-Oct-13|Calgary, AB|All|F|Kelsey House|AB|61.8|&nbsp;|63|Open|72.5|50.0|97.5|220.0|239.756|2013|yes|
 12th Annual Deadlift Open|5-May-01|Waterloo, ON|Single|M|M. Piskrski|ON|75|75|&nbsp;|Open|&nbsp;|&nbsp;|220.0|220.0|156.763|2001|&nbsp;|
 12th Annual Deadlift Open|5-May-01|Waterloo, ON|Single|M|P. Clipperton|ON|82.5|82.5|&nbsp;|Open|&nbsp;|&nbsp;|220.0|220.0|147.379|2001|&nbsp;|
@@ -5806,8 +5806,8 @@ Alberta Provincials|7-Jul-13|Calgary, AB|All|F|Laura  Hutson |AB|52.1|&nbsp;|57|
 Alberta Provincials|7-Jul-13|Calgary, AB|All|F|Lisa Scheffelmaier|AB|53.5|&nbsp;|57|Master 2|72.5|57.5|95.0|225.0|274.365|2013|yes|
 PEI Provincials|7-Feb-15|Charlottetown, PE|All|F|Mary Condon|PE|67.0|&nbsp;|72|Master 1|82.5|42.5|100.0|225.0|230.870|2015|yes|
 Ontario College & University Championship|7-Feb-15|Toronto, ON|All|F|Alex Close|ON|59.3|&nbsp;|63|Junior|80.0|42.5|102.5|225.0|253.148|2015|yes|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Samuel Tooke|BC| M-JR-U|92.8|&nbsp;|93|yes|182.5|112.5|225.0|520.0|327.030|Junior|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Sterling Methot-Smith|BC| M-O-U|83.7|&nbsp;|93|yes|192.5|127.5|225.0|545.0|361.990|Open|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Samuel Tooke|BC| M-JR-U|92.8|&nbsp;|93|182.5|112.5|225.0|520.0|327.030|Junior|yes|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Sterling Methot-Smith|BC| M-O-U|83.7|&nbsp;|93|192.5|127.5|225.0|545.0|361.990|Open|yes|
 Urban Athletic Games|5-Oct-13|Calgary, AB|All|F|Lyndell Berry|AB|73.0|&nbsp;|84|Open|85.0|45.0|95.0|225.0|217.620|2013|yes|
 BC Fall Classic|4-Nov-12|Abbotsford, BC|All|F|Ashley Jennings|BC|51.7|&nbsp;|52|Junior|82.5|40.0|102.5|225.0|281.745|2012|yes|
 Toronto Supershow|31-May-14|Toronto, ON|Single|M|Alex Podshibiakin|ON|155.9|&nbsp;|120+|Master 2|&nbsp;|225.0|&nbsp;|225.0|123.820|2014|&nbsp;|
@@ -5984,8 +5984,8 @@ Alberta Provincials|7-Jul-13|Calgary, AB|All|F|Ashley Corcoran|AB|69.3|&nbsp;|72
 Canadian Benchpress Championship|7-Apr-10|Quebec City, QU|Single|M|Jeff Butt|NL|96.7|100|&nbsp;|Master 1|&nbsp;|230.0|&nbsp;|230.0|141.947|2010|&nbsp;|
 Canadian Benchpress Championship|7-Apr-10|Quebec City, QU|Single|M|Hector Aguilar|AB|102.8|110|&nbsp;|Open|&nbsp;|230.0|&nbsp;|230.0|138.493|2010|&nbsp;|
 Belle River Open|6-Sep-14|Belle River, ON|All|F|Kathy Do|ON|53.5|&nbsp;|57|Junior|85.0|45.0|100.0|230.0|280.500|2014|yes|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Benjamin Smith|BC| M-O-U|95.4|&nbsp;|105|yes|240.0|157.5|230.0|627.5|389.550|Open|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Ryan LaFortune|BC| M-O-U|105.5|&nbsp;|120|yes|197.5|127.5|230.0|555.0|331.110|Open|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Benjamin Smith|BC| M-O-U|95.4|&nbsp;|105|240.0|157.5|230.0|627.5|389.550|Open|yes|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Ryan LaFortune|BC| M-O-U|105.5|&nbsp;|120|197.5|127.5|230.0|555.0|331.110|Open|yes|
 Urban Athletic Games|5-Oct-13|Calgary, AB|All|F|Lesley Unger|AB|67.1|&nbsp;|72|Open|77.5|47.5|105.0|230.0|235.750|2013|yes|
 12th Annual Deadlift Open|5-May-01|Waterloo, ON|Single|M|S. Roach|ON|100|100|&nbsp;|Open|&nbsp;|&nbsp;|230.0|230.0|139.975|2001|&nbsp;|
 12th Annual Deadlift Open|5-May-01|Waterloo, ON|Single|M|S. Roach|ON|100|100|&nbsp;|Open|&nbsp;|&nbsp;|230.0|230.0|139.975|2001|&nbsp;|
@@ -6319,9 +6319,9 @@ Cold Lake Barbenders Prairie Open|7-Feb-15|Cold Lake, AB|All|F|Sandra Fernandez|
 PEI Provincials|7-Feb-15|Charlottetown, PE|All|F|Hailey Batchilder|PE|74.9|&nbsp;|84|Open|85.0|45.0|110.0|240.0|228.340|2015|yes|
 2005 CPU Nationals|7-Apr-05|Calgary, AB|All|F|Janice Macdonald|NS|91.1|SHW|&nbsp;|Open|65.0|110.0|65.0|240.0|206.352|2005|&nbsp;|
 2005 CPU Nationals|7-Apr-05|Calgary, AB|Single|M|Jay Arnold|BC|97.9|100|&nbsp;|Open|&nbsp;|240.0|&nbsp;|240.0|147.339|2005|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Gregory Kowatski|BC| M-O-U|110.0|&nbsp;|120|yes|185.0|122.5|240.0|547.5|322.200|Open|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Danzel Rosario|BC| M-O-U|80.3|&nbsp;|83|yes|205.0|125.0|240.0|570.0|388.230|Open|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Garry Garneau|BC| M-O-U|89.1|&nbsp;|93|yes|215.0|130.0|240.0|585.0|375.390|Open|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Gregory Kowatski|BC| M-O-U|110.0|&nbsp;|120|185.0|122.5|240.0|547.5|322.200|Open|yes|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Danzel Rosario|BC| M-O-U|80.3|&nbsp;|83|205.0|125.0|240.0|570.0|388.230|Open|yes|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Garry Garneau|BC| M-O-U|89.1|&nbsp;|93|215.0|130.0|240.0|585.0|375.390|Open|yes|
 12th Annual Deadlift Open|5-May-01|Waterloo, ON|Single|M|B. Baresich|ON|110|110|&nbsp;|Open|&nbsp;|&nbsp;|240.0|240.0|141.238|2001|&nbsp;|
 12th Annual Deadlift Open|5-May-01|Waterloo, ON|Single|M|B. Baresich|ON|110|110|&nbsp;|Open|&nbsp;|&nbsp;|240.0|240.0|141.238|2001|&nbsp;|
 PEI Provincial Championship|5-Aug-17|Charlottetown, PEI|All|F|Arlene Van Diepen|PE|82.1|&nbsp;|84|Master 3|80.0|50.0|110.0|240.0|216.552|2017|yes|
@@ -6492,8 +6492,8 @@ Nova Scotia Prov. Bench|7-May-05|Sackville, NS|Single|M|Craig Hurford          |
 Ontario College & University Championship|7-Feb-15|Toronto, ON|All|F|Anna Hanula|ON|61.8|&nbsp;|63|Open|82.5|45.0|117.5|245.0|267.001|2015|yes|
 Canadian Benchpress Championship|7-Apr-10|Quebec City, QU|Single|M|John MacDonald|PE|121.9|125|&nbsp;|Open|&nbsp;|245.0|&nbsp;|245.0|140.356|2010|&nbsp;|
 QPF Provincials|6-Oct-12|Jonquiere, QU|All|F|Odette Michaud|QU|39.8|&nbsp;|47|Master 1|85.0|35.0|125.0|245.0|366.962|2012|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Geoff St. Germaine|BC| M-O-U|89.6|&nbsp;|93|yes|210.0|130.0|245.0|585.0|374.280|Open|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Matt Rud|BC| M-JR-U|104.1|&nbsp;|105|yes|185.0|130.0|245.0|560.0|335.660|Junior|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Geoff St. Germaine|BC| M-O-U|89.6|&nbsp;|93|210.0|130.0|245.0|585.0|374.280|Open|yes|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Matt Rud|BC| M-JR-U|104.1|&nbsp;|105|185.0|130.0|245.0|560.0|335.660|Junior|yes|
 Alberta Provincial Championship|5-Jul-14|Olds, AB|All|F|Laura Hutson|AB|53.9|&nbsp;|57|Open|87.5|60.0|97.5|245.0|297.013|2014|yes|
 PEI Provincial Championship|5-Aug-17|Charlottetown, PEI|All|F|Ashley Gould|NS|55.3|&nbsp;|57|Open|77.5|47.5|120.0|245.0|291.134|2017|yes|
 PEI Provincial Championship|5-Aug-17|Charlottetown, PEI|All|F|Cassie Anderson|PE|93.3|&nbsp;|84+|Open|70.0|55.0|120.0|245.0|208.715|2017|yes|
@@ -6646,7 +6646,7 @@ QPF Provincials|6-Oct-12|Jonquiere, QU|All|F|Sabrina Gagnon|QU|62.2|&nbsp;|63|Ju
 BC Fall Classic|6-Nov-11|Vancouver, BC|All|F|Karla Moxley|BC|64.6|&nbsp;|72|Open|85.0|45.0|120.0|250.0|263.475|2011|&nbsp;|
 Quebec Provincials|6-Nov-10|Baie-Comeau, QU|All|F|Odette Michaud|QU|39.6|48|&nbsp;|Master 1|85.0|37.5|127.5|250.0|375.502|2010|&nbsp;|
 Brickhouse Power Challenge|6-Feb-16|Winnipeg, MB|All|F|Margo Morberg Berry|MB|69.6|&nbsp;|72|Master 1|80.0|50.0|120.0|250.0|249.700|2016|yes|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Eric Vila|BC| M-JR-U|90.2|&nbsp;|93|yes|210.0|110.0|250.0|570.0|363.490|Junior|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Eric Vila|BC| M-JR-U|90.2|&nbsp;|93|210.0|110.0|250.0|570.0|363.490|Junior|yes|
 Alberta Provincial Championship|5-Jul-14|Olds, AB|All|F|Coreen Neilson|AB|63.6|&nbsp;|72|Master 1|80.0|52.5|117.5|250.0|266.575|2014|yes|
 DEF Championship|4-Oct-14|Charlottetown, PEI|All|F|Crystal MacIntyre|PE|68.7|&nbsp;|72|Open|90.0|55.0|105.0|250.0|251.970|2014|yes|
 Toronto Supershow|4-Jun-16|Toronto, ON|Single|M|Barry Antoniow|ON|105|&nbsp;|93.5|Master 1|&nbsp;|250.0|&nbsp;|250.0|156.650|2016|&nbsp;|
@@ -6851,7 +6851,7 @@ Newfoundland Sub-Junior/Junior Provincials |26-Nov-16|Paradise, NL|All|F|Julia C
 2001 Vancouver Island High School Powerlifting Championships|8-Dec-01|Nanaimo, BC|All|M|Nate Phillip|BC|67.5|67.5|&nbsp;|Junior|85.0|60.0|110.0|255.0|214.300|2001|&nbsp;|
 Junior Provincials|7-Oct-95|Olds, AB|All|F|Carole Vachon|AB|73.9|75|&nbsp;|Junior|92.5|50.0|112.5|255.0|185.970|1995|&nbsp;|
 2005 CPU Nationals|7-Apr-05|Calgary, AB|Single|M|John Giffen|AB|107.7|110|&nbsp;|Open|&nbsp;|255.0|&nbsp;|255.0|151.072|2005|&nbsp;|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Cameron Lennox|BC| M-O-U|118.4|&nbsp;|120|yes|245.0|172.5|255.0|672.5|387.900|Open|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Cameron Lennox|BC| M-O-U|118.4|&nbsp;|120|245.0|172.5|255.0|672.5|387.900|Open|yes|
 1999 Saskatchewan Special Olympics Powerlifting|5-Nov-99|Moose Jaw, SK|All|M|Michael Church|SK|75|75|&nbsp;|SO|&nbsp;|87.5|167.5|255.0|181.703|1999|&nbsp;|
 12th Annual Deadlift Open|5-May-01|Waterloo, ON|Single|M|D. Pigozzo|ON|90|90|&nbsp;|Open|&nbsp;|&nbsp;|255.0|255.0|162.790|2001|&nbsp;|
 12th Annual Deadlift Open|5-May-01|Waterloo, ON|Single|M|D. Pigozzo|ON|90|90|&nbsp;|Open|&nbsp;|&nbsp;|255.0|255.0|162.790|2001|&nbsp;|
@@ -7043,7 +7043,7 @@ Newfoundland Provincials|8-Jun-13|St. John's, NL|All|F|Sam March|NL|62.0|&nbsp;|
 7th Annual Toronto Open Powerlifting Meet|8-Jul-00|Toronto, ON|All|F|Krista Schaus|ON|56|56|&nbsp;|Open|102.5|47.5|110.0|260.0|305.917|2000|&nbsp;|
 Alberta Provincials|7-Jul-13|Calgary, AB|All|F|Erin Ashbacher|AB|53.4|&nbsp;|57|Open|85.0|65.0|110.0|260.0|317.512|2013|yes|
 South Huron Open|6-Jul-13|South Huron, ON|All|F|Alexandra Epp|ON|50.9|&nbsp;|52.0|Open|95.0|45.0|120.0|260.0|329.498|2013|yes|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Joel Tickner|BC| M-O-U|103.5|&nbsp;|105|yes|227.5|130.0|260.0|617.5|370.870|Open|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Joel Tickner|BC| M-O-U|103.5|&nbsp;|105|227.5|130.0|260.0|617.5|370.870|Open|yes|
 1999 Saskatchewan Special Olympics Powerlifting|5-Nov-99|Moose Jaw, SK|All|M|Shawn Zelinski|SK|100|100|&nbsp;|SO|&nbsp;|100.0|160.0|260.0|158.233|1999|&nbsp;|
 Nationals|5-Mar-99|Sherbrooke, QU|All|F|Louise Caron|QU|69.9|75|&nbsp;|Open|90.0|70.0|100.0|260.0|258.900|1999|&nbsp;|
 Alberta Provincial Championship|5-Jul-14|Olds, AB|All|F|Deb Ellard|AB|62.1|&nbsp;|63|Master 2|95.0|55.0|110.0|260.0|282.308|2014|yes|
@@ -8177,7 +8177,7 @@ BC Provincials|9-Jun-13|Richmond, BC|All|F|Alicia Kingsland|BC|71.0|&nbsp;|72|Ju
 Gord Pronick Memorial|8-Nov-15|Abbotsford, BC|All|F|Sarah Van Der Kamp|BC|88.9|&nbsp;| 84+|Junior|105.0|50.0|132.5|287.5|249.722|2015|yes|
 Bay Noppers Memorial|6-Aug-17|Edmonton, AB|All|F|Nicole Schuster|AB|68.9|&nbsp;|72|Open|110.0|45.0|132.5|287.5|289.196|2017|yes|
 Saguenay Open|6-Aug-17|Saguenay, QU|All|F|Camille Gaudreault|QU|59.2|&nbsp;|63|Open|105.00|57.5|125.0|287.5|324.100|2017|yes|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Christopher Soo|BC| M-O-U|102.9|&nbsp;|105|yes|232.5|150.0|287.5|670.0|403.270|Open|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Christopher Soo|BC| M-O-U|102.9|&nbsp;|105|232.5|150.0|287.5|670.0|403.270|Open|yes|
 2002 BC Provincial Championships|6-Apr-02|Vancouver, BC|All|F|Emma Mayne|BC|82.5|82.5|&nbsp;|Open|110.0|42.5|135.0|287.5|258.741|2002|&nbsp;|
 Saquenay Open|4-Feb-12|Jonquiere, QU|All|F|Laeticia Villeneuve|QU|88.4|&nbsp;|84+|Junior|97.5|47.5|142.5|287.5|250.323|2012|yes|
 Canadian Championship|31-Mar-14|St. Catherines, ON|All|F|Alexandra Epp|ON|51.4|&nbsp;|52|Open|105.0|55.0|127.5|287.5|361.630|2014|yes|
@@ -9529,7 +9529,7 @@ BC High School Powerlifting Championships|9-Jun-01|New Westminster, BC|All|M|Kon
 Gord Pronick Memorial|8-Nov-15|Abbotsford, BC|All|F|Alicia Kingsland|BC|68.3|&nbsp;|72|Junior|112.5|60.0|145.0|317.5|321.341|2015|yes|
 2001 Vancouver Island High School Powerlifting Championships|8-Dec-01|Nanaimo, BC|All|M|Kris Bertrand|BC|67.5|67.5|&nbsp;|Junior|117.5|62.5|137.5|317.5|245.400|2001|&nbsp;|
 Arnold Sports Festival|6-Mar-15|Columbus, Ohio|All|F|Pamela Anderson|BC|49.5|&nbsp;|52|Junior|120.0|65.0|132.5|317.5|410.97|2015|yes|
-Lift The Rock|6-Aug-17|Victoria, BC|All|M|Sean Hayes|BC| M-O-U|142.5|&nbsp;| 120+|yes|290.0|177.5|317.5|785.0|437.560|Open|
+Lift The Rock|6-Aug-17|Victoria, BC|All|M|Sean Hayes|BC| M-O-U|142.5|&nbsp;| 120+|290.0|177.5|317.5|785.0|437.560|Open|yes|
 Megaton's Riverfest Open Deadlift, Bench Press|4-Jul-99|Brockville, ON|Two|M|Louis Levesque|ON|82.5|82.5|&nbsp;|Open|&nbsp;|117.5|200.0|317.5|212.695|1999|&nbsp;|
 Alberta Provincials|4-Jul-15|Calgary, AB|All|F|Katie Sorenson |AB|75.0|&nbsp;|84|Open|107.5|65.0|145.0|317.5|301.820|2015|yes|
 Alberta Provincials|4-Jul-15|Calgary, AB|All|F|Johanna Reichel|AB|57.5|&nbsp;|63|Open|110.0|60.0|147.5|317.5|365.920|2015|yes|

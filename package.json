@@ -14,6 +14,9 @@
   },
   "scripts": {
     "start": "./node_modules/db-migrate/bin/db-migrate up && node src/index.js",
+    "start:development": "./node_modules/db-migrate/bin/db-migrate up && nodemon src/index.js",
+    "start:local": "docker-compose up -d && yarn start:development",
+    "stop:local": "docker-compose rm -f -s",
     "test": "standard src/** && echo TODO"
   },
   "engines": {
